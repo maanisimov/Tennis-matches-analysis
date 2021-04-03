@@ -1,2 +1,2 @@
 # Tennis-matches-analysis
-For research purposes
+Data analysis work during my 2nd year of undergraduate studies
